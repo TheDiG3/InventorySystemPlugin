@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "InventorySystem",
+	"Description": "Provides functionality for an inventory system and matching crafting system.",
+	"Category": "Inventory",
+	"CreatedBy": "Simone \"DiG\" DI Gravio",
+	"CreatedByURL": "https://www.linkedin.com/in/sdigraw/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "InventorySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
